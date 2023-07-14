@@ -37,26 +37,16 @@ For this project, you will create Bash a script to get information about chemica
 
 # Screenshot
 
-### See code above
-![Captura4](https://github.com/AndresF-SanchezG/postgres-challenge3/assets/113924667/5c5a055f-564d-4592-a635-3a40c4dee548)
-![Captura5](https://github.com/AndresF-SanchezG/postgres-challenge3/assets/113924667/6622a1cd-7c60-47ec-ba9f-be7ffa3e75ad)
-![Captura6](https://github.com/AndresF-SanchezG/postgres-challenge3/assets/113924667/ab229e89-b88b-4bd1-bc4c-ac0eb8dbf3e0)
-![Captura7](https://github.com/AndresF-SanchezG/postgres-challenge3/assets/113924667/73ab57e3-86a1-4e59-a0dc-8e9b7699d047)
-![Captura8](https://github.com/AndresF-SanchezG/postgres-challenge3/assets/113924667/f0fe42ef-00d3-40a9-955b-d006e1c2353d)
+### Elements Table
+![Captura1](https://github.com/AndresF-SanchezG/postgres-challenge4/assets/113924667/361fb2d3-4d09-4fc0-b21b-76f971fc9a69)
 
-## Appointments Table
-![Captura9](https://github.com/AndresF-SanchezG/postgres-challenge3/assets/113924667/eec150ef-9954-4433-ab54-473336d3e0bd)
-![Captura10](https://github.com/AndresF-SanchezG/postgres-challenge3/assets/113924667/96d311d1-7e8d-4412-8c69-e68f8938a595)
+### Elements Taable
+![Captura2](https://github.com/AndresF-SanchezG/postgres-challenge4/assets/113924667/9b8a87d4-7a2a-46a3-9cc6-a4c8b212fb3e)
 
-## Customers Table
-![Captura11](https://github.com/AndresF-SanchezG/postgres-challenge3/assets/113924667/740de07f-8324-4a10-9a14-56e413d3e0c6)
-![Captura12](https://github.com/AndresF-SanchezG/postgres-challenge3/assets/113924667/a5173443-4e11-45fc-86f7-514c31c658ba)
-
-## Customers Services
-![Captura13](https://github.com/AndresF-SanchezG/postgres-challenge3/assets/113924667/68a2e9f9-031c-4ac9-b368-4f49462cc509)
-![Captura14](https://github.com/AndresF-SanchezG/postgres-challenge3/assets/113924667/6a72a3f2-0264-417a-b595-1c694d920fde)
+### Properties Table
+![Captura4](https://github.com/AndresF-SanchezG/postgres-challenge4/assets/113924667/0bd6045c-6d39-47f8-8617-11ce667e6956)
 
 
 - Autor - [@AndresF-SanchezG](https://github.com/AndresF-SanchezG)
 - School - [Freecodecamp](https://www.freecodecamp.org/)
-- Curse - [Build a Salon Appointment Scheduler](https://www.freecodecamp.org/learn/relational-database/build-a-salon-appointment-scheduler-project/build-a-salon-appointment-scheduler)
+- Curse - [Build a Periodic Table Database](https://www.freecodecamp.org/learn/relational-database/build-a-periodic-table-database-project/build-a-periodic-table-database)
