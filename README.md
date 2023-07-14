@@ -40,7 +40,7 @@ For this project, you will create Bash a script to get information about chemica
 ### Elements Table
 ![Captura1](https://github.com/AndresF-SanchezG/postgres-challenge4/assets/113924667/361fb2d3-4d09-4fc0-b21b-76f971fc9a69)
 
-### Elements Taable
+### Elements Table
 ![Captura2](https://github.com/AndresF-SanchezG/postgres-challenge4/assets/113924667/9b8a87d4-7a2a-46a3-9cc6-a4c8b212fb3e)
 
 ### Properties Table
