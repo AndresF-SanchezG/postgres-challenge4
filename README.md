@@ -46,6 +46,11 @@ For this project, you will create Bash a script to get information about chemica
 ### Properties Table
 ![Captura4](https://github.com/AndresF-SanchezG/postgres-challenge4/assets/113924667/0bd6045c-6d39-47f8-8617-11ce667e6956)
 
+### Run with Arguments
+![Captura7](https://github.com/AndresF-SanchezG/postgres-challenge4/assets/113924667/db801ddd-ef22-433d-87d4-bf5d3f2bad55)
+![Captura8](https://github.com/AndresF-SanchezG/postgres-challenge4/assets/113924667/0e6b3b6d-3e99-4e51-a62c-e8c5f4161034)
+![Captura9](https://github.com/AndresF-SanchezG/postgres-challenge4/assets/113924667/c32c6df6-2cfe-4b05-9bd2-fa479187f8b2)
+
 
 - Autor - [@AndresF-SanchezG](https://github.com/AndresF-SanchezG)
 - School - [Freecodecamp](https://www.freecodecamp.org/)
